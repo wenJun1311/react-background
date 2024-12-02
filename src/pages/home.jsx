@@ -1,9 +1,9 @@
-import homeClass from "./home"
+import "./home.css"
 
 function home() {
   return (
     <>
-      <div className="homeClass">
+      <div className="foo">
         <div>123</div>
         <div>345</div>
       </div>

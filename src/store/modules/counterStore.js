@@ -20,15 +20,19 @@ const countStore = createSlice({
     decrement(state) {
       state.count--
     },
+    addToNum(state, action) {
+      console.log(action)
+      state.count += action.payload
+    },
   },
 })
 
 // 解构actions
-const { increment, decrement } = countStore.actions
+const { increment, decrement, addToNum } = countStore.actions
 // 获取reducer
 const reducer = countStore.reducer
 
 export default reducer
 
 // 按需导出
-export { increment, decrement }
+export { increment, decrement, addToNum }

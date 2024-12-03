@@ -1,0 +1,144 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": -99,
+      "date": "2022-10-24 10:36:42",
+      "useFor": "drinks",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": -88,
+      "date": "2022-10-24 10:37:51",
+      "useFor": "longdistance",
+      "id": 2
+    },
+    {
+      "type": "pay",
+      "money": -120,
+      "date": "2024-12-03 11:12:05",
+      "useFor": "lunch",
+      "id": 3
+    },
+    {
+      "type": "pay",
+      "money": -150,
+      "date": "2024-12-03 12:20:16",
+      "useFor": "shopping",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2024-12-03 13:10:43",
+      "useFor": "transport",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": -200,
+      "date": "2024-12-03 14:05:27",
+      "useFor": "dinner",
+      "id": 6
+    },
+    {
+      "type": "pay",
+      "money": -30,
+      "date": "2024-12-03 15:05:34",
+      "useFor": "snacks",
+      "id": 7
+    },
+    {
+      "type": "pay",
+      "money": -65,
+      "date": "2024-12-03 16:22:49",
+      "useFor": "movie",
+      "id": 8
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2024-12-03 17:30:15",
+      "useFor": "gifts",
+      "id": 9
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2024-12-03 18:10:09",
+      "useFor": "books",
+      "id": 10
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2024-12-03 18:55:23",
+      "useFor": "clothes",
+      "id": 11
+    },
+    {
+      "type": "pay",
+      "money": -80,
+      "date": "2024-12-03 19:30:33",
+      "useFor": "restaurant",
+      "id": 12
+    },
+    {
+      "type": "pay",
+      "money": -25,
+      "date": "2024-12-03 20:05:47",
+      "useFor": "subscription",
+      "id": 13
+    },
+    {
+      "type": "pay",
+      "money": -110,
+      "date": "2024-12-03 21:15:56",
+      "useFor": "electronics",
+      "id": 14
+    },
+    {
+      "type": "pay",
+      "money": -55,
+      "date": "2024-12-03 22:00:12",
+      "useFor": "accessories",
+      "id": 15
+    },
+    {
+      "type": "pay",
+      "money": -90,
+      "date": "2024-12-03 23:05:39",
+      "useFor": "furniture",
+      "id": 16
+    },
+    {
+      "type": "pay",
+      "money": -120,
+      "date": "2024-12-03 23:55:42",
+      "useFor": "gaming",
+      "id": 17
+    },
+    {
+      "type": "pay",
+      "money": -150,
+      "date": "2024-12-04 00:15:02",
+      "useFor": "home improvement",
+      "id": 18
+    },
+    {
+      "type": "pay",
+      "money": -40,
+      "date": "2024-12-04 01:05:13",
+      "useFor": "travel",
+      "id": 19
+    },
+    {
+      "type": "pay",
+      "money": -75,
+      "date": "2024-12-04 02:10:23",
+      "useFor": "sports",
+      "id": 20
+    }
+  ]
+}

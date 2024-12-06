@@ -9,5 +9,16 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "src"),
     },
+    presets: [
+      [
+        "@babel/preset-env",
+        {
+          targets: {
+            chrome: "49",
+            ios: "10",
+          },
+        },
+      ],
+    ],
   },
 })
